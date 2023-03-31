@@ -2,8 +2,8 @@
 
 - 🌱 Atualmente sou estudante front end.
 <div>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=thiiagolopes&show_icons=true&theme=dark"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiiagolopes&layout=compact&langs_count=16&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=thiiagolopes&show_icons=true&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiiagolopes&layout=compact&langs_count=16&theme=dark"/>
 </div>
  
 <div style="display: inline_block"><br>
