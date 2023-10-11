@@ -1,23 +1,26 @@
-### Olá! Eu sou o Thiago Lopes 👋
+<h2 align="center">Thiago Lopes 👋</h2>
 
-- 🌱 Atualmente sou estudante front end.
-<div>
+<h3 align="center">🎓 Estudante Front-End | Alura</h3>
+
+<div align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=thiiagolopes&show_icons=true&theme=dark"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiiagolopes&layout=compact&langs_count=16&theme=dark"/>
 </div>
- 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Programando" height="130" style="border-radius:50px" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
+
+<h2 style="display: inline_block">Habilidades e Ferramentas</h2>
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+<img alt="vs-code" height="28" width="38" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
+
+<h2>Contato e Social Media</h2>
+
+<div style="display: inline_block">  
+  <a href = "mailto:thiagolopesr98@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/thiiagolopes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/devthiagoramos" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
-  
-  ##
- 
-<div> 
-  <a href="https://instagram.com/devthiagoramos" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:thiagolopesr98@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/thiiagolopes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
+
+<img align="right" alt="ilustração personagem programando" height="130" src="https://i.pinimg.com/originals/61/8f/08/618f083c61a7460ce0a6064319af41bd.gif">
