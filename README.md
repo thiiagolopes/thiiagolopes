@@ -1,6 +1,6 @@
 <h2 align="center">Thiago Lopes 👋</h2>
 
-<h3 align="center">🎓 Estudante Front-End | Alura</h3>
+<h3 align="center">🎓 Estudante Python | Curso em Vídeo</h3>
 
 <div align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=thiiagolopes&show_icons=true&theme=dark"/>
